@@ -1,4 +1,4 @@
-# 100+ Automated / Semi-Automated Online Income Ideas for a Python + Django Developer  
+# Automated / Semi-Automated Online Income Ideas for a Python + Django Developer  
 (2025–2026 edition – all executable by a solo self-taught programmer)
 
 ## Tier 1: Already Proven $5k–$100k+/mo by Solo Devs
